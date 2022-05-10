@@ -1,7 +1,31 @@
-### Fullstack Developer
+# Typescript Fullstack Developer
 
-Python/Django
+## Some frameworks, tools and concepts I'm experienced with:
 
-JavaScript/React
+### Backend:
+Typescript
+Node.js
+Express
+Socket.IO
+Prisma
+TypeORM
+SQL
+REST
+Puppeteer
+Heroku
 
-📫 Contact me via e-mail: matheuspuel@gmail.com
+### Frontend:
+React
+React Native
+Expo
+Next.js
+Redux
+RTK Query
+React Navigation
+NativeBase
+
+
+## Contact me:
+📫 E-mail: matheuspuel@gmail.com
+
+📱 Whatsapp: +55 48 99835-3558
