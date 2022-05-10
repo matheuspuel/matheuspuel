@@ -4,11 +4,15 @@
 
 ### Backend:
 
-Typescript, Node.js, Express, Socket.IO, Prisma, TypeORM, SQL, REST, Puppeteer, Heroku
+Typescript, Node.js, Express, Socket.IO, Prisma, TypeORM, SQL, REST, Puppeteer, Docker, Heroku
 
 ### Frontend:
 
-React, React Native, Expo, Next.js, Redux, RTK Query, React Navigation, NativeBase
+React, React Native, Expo, Next.js, Redux, RTK Query, Jest, Testing Library, React Navigation, NativeBase
+
+### Learning:
+
+Functional programming, fp-ts
 
 ## Contact me:
 
