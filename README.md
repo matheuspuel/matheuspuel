@@ -1,4 +1,4 @@
-# Typescript Full Stack Developer
+# TypeScript Full Stack Developer
 
 ## Some frameworks, tools and concepts I'm experienced with:
 
@@ -12,7 +12,7 @@ React, React Native, Expo, Next.js, Redux, RTK Query, Testing Library, React Nav
 
 ### Other:
 
-Typescript, Jest, REST, Socket.IO, Puppeteer
+TypeScript, Jest, REST, Socket.IO, Puppeteer
 
 ### Learning:
 
