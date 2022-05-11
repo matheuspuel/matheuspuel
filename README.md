@@ -23,3 +23,5 @@ Functional programming, fp-ts, Elasticsearch
 📫 E-mail: matheuspuel@gmail.com
 
 📱 Whatsapp: +55 48 99835-3558
+
+👨‍💼 LinkedIn: [linkedin.com/in/matheus-michalski-puel-9b66aa138](https://www.linkedin.com/in/matheus-michalski-puel-9b66aa138/)
