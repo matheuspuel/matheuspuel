@@ -1,4 +1,4 @@
-# Typescript Fullstack Developer
+# Typescript Full Stack Developer
 
 ## Some frameworks, tools and concepts I'm experienced with:
 
