@@ -2,21 +2,21 @@
 
 ## Some frameworks, tools and concepts I'm experienced with:
 
+### General:
+
+TypeScript, Jest, Socket.IO, functional programming, fp-ts
+
 ### Backend:
 
 Node.js, Express, Prisma, TypeORM, SQL, MongoDB, Redis, Docker, Heroku
 
 ### Frontend:
 
-React, React Native, Expo, Next.js, Redux, RTK Query, Testing Library, React Navigation, NativeBase
-
-### Other:
-
-TypeScript, Jest, REST, Socket.IO, Puppeteer
+React, React Native, Expo, Next.js, NativeBase, React Navigation, Redux, RTK Query, Testing Library
 
 ### Learning:
 
-Functional programming, fp-ts, Elasticsearch
+Haskell language
 
 ## Contact me:
 
