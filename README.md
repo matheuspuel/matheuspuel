@@ -12,7 +12,7 @@ Node.js, Express, Prisma, TypeORM, SQL, MongoDB, Redis, Docker, Heroku
 
 ### Frontend:
 
-React, React Native, Expo, Next.js, NativeBase, React Navigation, Redux, RTK Query, Testing Library
+React, React Native, Expo, Next.js, React Navigation, Redux, Testing Library
 
 ### Learning:
 
