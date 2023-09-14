@@ -1,22 +1,16 @@
-# TypeScript Full Stack Developer
+# TypeScript Full Stack Software Engineer
 
-## Some frameworks, tools and concepts I'm experienced with:
+## :heart: Technologies I use and love:
 
-### General:
-
-TypeScript, Jest, Socket.IO, functional programming, fp-ts
-
-### Backend:
-
-Node.js, Express, Prisma, TypeORM, SQL, MongoDB, Redis, Docker, Heroku
-
-### Frontend:
-
-React, React Native, Expo, Next.js, React Navigation, Redux, Testing Library
-
-### Learning:
-
-Haskell language
+- [TypeScript](https://www.typescriptlang.org)
+- [Effect](https://www.effect.website)
+- [Node.js](https://nodejs.org)
+- [PostgreSQL](https://www.postgresql.org)
+- [Prisma](https://www.prisma.io)
+- [React](https://react.dev)
+- [React Native](https://reactnative.dev)
+- [Jest](https://jestjs.io)
+- [Functional Programming](https://en.wikipedia.org/wiki/Functional_programming)
 
 ## Contact me:
 
