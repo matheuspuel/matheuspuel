@@ -6,6 +6,7 @@
 - [Effect](https://www.effect.website)
 - [Node.js](https://nodejs.org)
 - [PostgreSQL](https://www.postgresql.org)
+- [Drizzle ORM](https://orm.drizzle.team)
 - [Prisma](https://www.prisma.io)
 - [React](https://react.dev)
 - [React Native](https://reactnative.dev)
