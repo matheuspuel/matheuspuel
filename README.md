@@ -10,7 +10,7 @@
 - [Prisma](https://www.prisma.io)
 - [React](https://react.dev)
 - [React Native](https://reactnative.dev)
-- [Jest](https://jestjs.io)
+- [Vitest](https://vitest.dev)
 - [Functional Programming](https://en.wikipedia.org/wiki/Functional_programming)
 
 ## Contact me:
