@@ -1,17 +1,19 @@
 # TypeScript Full Stack Software Engineer
 
+Adept of Functional Programming
+
 ## :heart: Technologies I use and love:
 
 - [TypeScript](https://www.typescriptlang.org)
 - [Effect](https://www.effect.website)
 - [Node.js](https://nodejs.org)
+- [React](https://react.dev)
+- [React Native](https://reactnative.dev)
 - [PostgreSQL](https://www.postgresql.org)
 - [Drizzle ORM](https://orm.drizzle.team)
 - [Prisma](https://www.prisma.io)
-- [React](https://react.dev)
-- [React Native](https://reactnative.dev)
 - [Vitest](https://vitest.dev)
-- [Functional Programming](https://en.wikipedia.org/wiki/Functional_programming)
+- [GitHub Actions](https://github.com/features/actions)
 
 ## Contact me:
 
